@@ -1,15 +1,21 @@
 <div align="center">
 <!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="/github-banner.png" alt="Md Mohiuddin - Full-Stack Developer" width="100%">
+</p>
 
 ---
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=250&section=header&text=Md%20Mohiuddin&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,35:006DFF,65:3B2BFF,85:8B3DFF,100:C026D3&height=250&section=header&text=Md%20Mohiuddin&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Md Mohiuddin - Full-Stack Developer" />
+</p>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=900&lines=Building+with+React+%7C+Next.js+%7C+MongoDB+%7C+Express+%7C+Node.js;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack+Developer+%7C" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00A8FF&center=true&vCenter=true&width=900&lines=Building+with+React+%7C+Next.js+%7C+MongoDB+%7C+Express+%7C+Node.js;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
 <br/><br/>
 
@@ -25,11 +31,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3&width=100%25" />
-
-<p align="center">
-  <img src="/github-banner.png" alt="Md Mohiuddin - Full-Stack Developer" width="100%">
-</p>
-
 
 ## 🧭 About Me
 
