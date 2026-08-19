@@ -107,25 +107,16 @@ Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HT
 
 <div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=digholkhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7&text_color=ffffff" 
-    height="180"
-    alt="Md Mohiuddin GitHub Stats"
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=digholkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7&text_color=ffffff" 
-    height="180"
-    alt="Top Languages"
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Digholkhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digholkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7&text_color=ffffff"/>
 </p>
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=digholkhan&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7&sideLabels=ffffff&dates=ffffff" 
-    alt="Md Mohiuddin GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Digholkhan&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7&sideLabels=ffffff&dates=ffffff"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Digholkhan&theme=react-dark&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff&area=true&area_color=00c9a7"/>
 </p>
 
 <p align="center">
