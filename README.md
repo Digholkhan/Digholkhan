@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=900&lines=Building+with+React+Nextjs+MongoDB+%2B+Express+%2B+React+%2B+Node;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack Developer+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=900&lines=Building+with+React+%7C+Next.js+%7C+MongoDB+%7C+Express+%7C+Node.js;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack+Developer+%7C" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -39,7 +39,7 @@
 - 👨‍💻 Mentor fellow developers — code reviews, guidance, and translating business goals into engineering decisions.
 - ⚙️ Obsessed with **performance**, **accessibility (a11y)**, and **clean, scalable code**.
 - 🌱 Currently deepening backend architecture & system design skills.
-- 💬 Ask me about: `React`, `Next.js`, `Node.js`,`Express.js` `MongoDB`, `Tailwind CSS`
+- 💬 Ask me about: `React`, `Next.js`, `Node.js`,`Expressjs` `MongoDB`, `Tailwind CSS`
 
 <br clear="right"/>
 
@@ -107,12 +107,34 @@ Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=digholkhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digholkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7" height="180" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=digholkhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7&text_color=ffffff" 
+    height="180"
+    alt="Md Mohiuddin GitHub Stats"
+  />
 
-<img src="https://streak-stats.demolab.com/?user=digholkhan&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=digholkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7&text_color=ffffff" 
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=digholkhan&theme=react-dark&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff" width="100%" />
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=digholkhan&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7&sideLabels=ffffff&dates=ffffff" 
+    alt="Md Mohiuddin GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=digholkhan&theme=react-dark&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff&area=true&area_color=00c9a7" 
+    width="100%"
+    alt="Md Mohiuddin GitHub Activity Graph"
+  />
+</p>
 
 </div>
 
