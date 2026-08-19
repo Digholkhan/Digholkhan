@@ -19,9 +19,9 @@
 
 <br/><br/>
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=00C9A7" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="dighol-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=00C9A7" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="digholkhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=digholkhan&label=Profile%20Views&color=00c9a7&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
@@ -72,22 +72,8 @@
 <div align="center">
 
 <table>
-<tr>
-<td width="50%">
 
-### 🛒 Cartivo
-**Next-Gen eCommerce Platform**
-
-Scalable, conversion-optimized eCommerce app with real-time state management, dynamic product filtering & seamless cart lifecycles.
-
-`React.js` `Redux Toolkit` `Tailwind CSS` `REST APIs`
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C9A7?style=for-the-badge&logoColor=white)](https:///)
-
-</td>
-<td width="50%">
-
-### 🌐 Engineer Portfolio
+### 🌐  Portfolio
 **Professional Showcase Site**
 
 Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HTML, and zero layout shift.
@@ -98,6 +84,20 @@ Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HT
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🛒 Full Stack E-Commerce
+**Next-Gen eCommerce Platform**
+
+Scalable, conversion-optimized eCommerce app with real-time state management, dynamic product filtering & seamless cart lifecycles.
+
+`React.js` `Redux Toolkit` `Tailwind CSS` `REST APIs`
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C9A7?style=for-the-badge&logoColor=white)](https:///)
+
+</td>
+<td width="50%">
 </table>
 
 </div>
