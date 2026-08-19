@@ -8,8 +8,9 @@
 
 </div>
 
+<!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="./github-banner.png" alt="Md Mohiuddin - Full-Stack Developer GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Dighol/Dighol/main/github-banner.png" alt="Md Mohiuddin - Full-Stack Developer" width="100%">
 </p>
 
 ---
