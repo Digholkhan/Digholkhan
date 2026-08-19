@@ -1,22 +1,5 @@
 <div align="center">
 
-# Md Mohiuddin
-
-### Full-Stack Developer
-
-**Building scalable, high-performance web experiences with clean code, modern technologies, and thoughtful UI/UX.**
-
-</div>
-
-<!-- GitHub Profile Banner -->
-<p align="center">
-  <img src="/github-banner.png" alt="Md Mohiuddin - Full-Stack Developer" width="100%">
-</p>
-
----
-</div>
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=250&section=header&text=Md.%20Abdun%20Noor&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Full-Stack%20Web%20Craftsman&descAlignY=55&descSize=18" />
 
 <br/>
@@ -144,4 +127,3 @@ Open to **full-stack developer roles**, remote opportunities, and freelance proj
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=footer" />
-
