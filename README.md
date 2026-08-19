@@ -1,13 +1,4 @@
 <div align="center">
-
-# Md Mohiuddin
-
-### Full-Stack Developer
-
-**Building scalable, high-performance web experiences with clean code, modern technologies, and thoughtful UI/UX.**
-
-</div>
-
 <!-- GitHub Profile Banner -->
 <p align="center">
   <img src="/github-banner.png" alt="Md Mohiuddin - Full-Stack Developer" width="100%">
@@ -17,7 +8,7 @@
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=250&section=header&text=Md.%20Abdun%20Noor&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Full-Stack%20Web%20Craftsman&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=250&section=header&text=Md%20Mohiuddin&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" />
 
 <br/>
 
@@ -29,7 +20,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=abdunnoorfaheem&label=Profile%20Views&color=00c9a7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=digholkhan&label=Profile%20Views&color=00c9a7&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 
 </div>
@@ -100,7 +91,7 @@ Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HT
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-0f2027?style=for-the-badge&logoColor=00C9A7)](https://abdunnoor.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-0f2027?style=for-the-badge&logoColor=00C9A7)](https://dighol-portfolio.vercel.app/)
 
 </td>
 </tr>
@@ -116,12 +107,12 @@ Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdunnoorfaheem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorfaheem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=digholkhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digholkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7" height="180" />
 
-<img src="https://streak-stats.demolab.com/?user=abdunnoorfaheem&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7" />
+<img src="https://streak-stats.demolab.com/?user=digholkhan&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdunnoorfaheem&theme=react-dark&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digholkhan&theme=react-dark&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff" width="100%" />
 
 </div>
 
@@ -133,9 +124,9 @@ Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HT
 
 Open to **full-stack developer roles**, remote opportunities, and freelance projects.
 
-<a href="https://abdunnoor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=00C9A7" /></a>
-<a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abdunnoor2450@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="dighol-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=00C9A7" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="digholkhan@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
