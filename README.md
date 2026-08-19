@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=900&lines=Building+with+MongoDB+%2B+Express+%2B+React+%2B+Node;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=900&lines=Building+with+React+Nextjs+MongoDB+%2B+Express+%2B+React+%2B+Node;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack Developer+Problem+Solver" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -35,11 +35,11 @@
 
 
 
-- 🔭 Building **end-to-end MERN applications** — REST APIs, schema design, state management, and responsive UI.
+- 🔭 Building **end-to-end FullStack applications** — REST APIs, schema design, state management, and responsive UI.
 - 👨‍💻 Mentor fellow developers — code reviews, guidance, and translating business goals into engineering decisions.
 - ⚙️ Obsessed with **performance**, **accessibility (a11y)**, and **clean, scalable code**.
 - 🌱 Currently deepening backend architecture & system design skills.
-- 💬 Ask me about: `React`, `Next.js`, `Node.js`, `MongoDB`, `Tailwind CSS`
+- 💬 Ask me about: `React`, `Next.js`, `Node.js`,`Express.js` `MongoDB`, `Tailwind CSS`
 
 <br clear="right"/>
 
@@ -79,7 +79,7 @@ Scalable, conversion-optimized eCommerce app with real-time state management, dy
 
 `React.js` `Redux Toolkit` `Tailwind CSS` `REST APIs`
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C9A7?style=for-the-badge&logoColor=white)](https://cartivo-pink.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C9A7?style=for-the-badge&logoColor=white)](https:///)
 
 </td>
 <td width="50%">
