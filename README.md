@@ -8,9 +8,6 @@
 </div>
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,25:0369A1,45:0EA5E9,65:3B82F6,82:6366F1,100:A855F7&height=250&section=header&text=Md%20Mohiuddin&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Md Mohiuddin - Full-Stack Developer" />
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,35:006DFF,65:3B2BFF,85:8B3DFF,100:C026D3&height=250&section=header&text=Md%20Mohiuddin&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Md Mohiuddin - Full-Stack Developer" />
 </p>
 <br/>
